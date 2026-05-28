@@ -42,7 +42,7 @@
         </div>
         <div class="info-item">
             <span>操作证编号</span>
-            <span>No.GKPX2026051901877</span>
+            <span>No.GKPX2026052001878</span>
         </div>
         <div class="info-item">
             <span>操作机型</span>
